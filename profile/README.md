@@ -12,6 +12,7 @@ These are the public, reproducible demonstrations behind [**Vorion**](https://gi
 | [**art-director**](https://github.com/axiom-orion/art-director) | Most of "good design" we call subjective is **checkable**. Single-shot generation passes WCAG AA contrast on **12%** of text pairings; the same generator inside a critic loop reaches **92%**. |
 | [**genealogy-graphrag**](https://github.com/axiom-orion/genealogy-graphrag) | Dense + lexical retrieval **can't answer relational questions** ("maternal grandfather of X?"). Adding kinship-graph resolution takes relational recall@5 from **0.000 → 1.000**, no regression elsewhere. |
 | [**cason-heritage**](https://github.com/axiom-orion/cason-heritage) · [flcason.com](https://flcason.com) | Zero-framework discipline, shipped: eleven generations of one family as a **single self-contained HTML file**. |
+| [**gigtrip**](https://github.com/axiom-orion/gigtrip) | Planning a trip around live events is **constrained optimisation, not a sort** — an exact optimiser captures **+30%** more preference-weighted value than sort-by-date at the same travel budget. |
 
 ## The through-line
 
