@@ -8,6 +8,7 @@ These are the public, reproducible demonstrations behind [**Vorion**](https://gi
 
 | Repo | The claim it turns into a number |
 |---|---|
+| [**governed-agents**](https://github.com/axiom-orion/governed-agents) · [live](https://governed-agents.vercel.app) | A governed multi-agent loop — Researcher → Reasoner → **policy gate** → execute-or-halt. Watch it **allow one action and block another** (an unverified external send) with a logged rationale, streamed live to a trace UI. |
 | [**agent-memory-service**](https://github.com/axiom-orion/agent-memory-service) · [live](https://agent-memory-service-voiwkzrlma-uc.a.run.app) | "Append everything to a vector store" memory returns **stale facts** when facts change. A flat store answers current-fact queries right **0%** of the time; the full memory service reaches **100%** with **0%** staleness. |
 | [**art-director**](https://github.com/axiom-orion/art-director) | Most of "good design" we call subjective is **checkable**. Single-shot generation passes WCAG AA contrast on **12%** of text pairings; the same generator inside a critic loop reaches **92%**. |
 | [**genealogy-graphrag**](https://github.com/axiom-orion/genealogy-graphrag) | Dense + lexical retrieval **can't answer relational questions** ("maternal grandfather of X?"). Adding kinship-graph resolution takes relational recall@5 from **0.000 → 1.000**, no regression elsewhere. |
